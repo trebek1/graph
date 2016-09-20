@@ -19,7 +19,7 @@ body {
 	stroke: #3f5175;
 }
 
-axis{
+.axis{
     fill:#bbc7d9;
     opacity: 1;
 }
